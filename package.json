@@ -1,5 +1,5 @@
 {
-  "name": "NEOBOT",
+  "name": "KACAYBOT",
   "version": "3.0.0",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -70,10 +70,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lexxy24/Neoxy-Base.git"
+    "url": "https://chat.whatsapp.com/IaxLnmSculC9fJCEzJ6fZH"
   },
   "bugs": {
-    "url": "https://github.com/Lexxy24/Neoxy-Base/issues"
+    "url": "https://chat.whatsapp.com/IaxLnmSculC9fJCEzJ6fZH"
   },
-  "homepage": "https://github.com/Lexxy24/Neoxy-Base#readme"
+  "homepage": "https://chat.whatsapp.com/IaxLnmSculC9fJCEzJ6fZH"
 }
